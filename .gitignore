@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+
+# Node
+**/node_modules/
+
+# Environment / secrets
+**/.env
+
+# Local config
+**/config.js
+
+# WhatsApp Web.js auth/cache (backend)
+**/.wwebjs_auth/
+**/.wwebjs_cache/
+
+# Logs
+*.log
+
